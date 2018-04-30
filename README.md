@@ -1,0 +1,1 @@
+# android_device_coolpad_CP8676_I02
