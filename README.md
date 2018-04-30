@@ -72,7 +72,7 @@ To sync the tree with rom :-
 
     git clone https://github.com/sougata7684/android_device_coolpad_CP8676_I02 -b LineageOS-14.1 device/coolpad/CP8676_I02
 	git clone https://github.com/sougata7684/android_vendor_coolpad_CP8676_I02 -b LineageOS-14.1 vendor/coolpad/CP8676_I02
-	git clone https://github.com/sougata7684/android_kernel_coolpad_CP8676_I00 -b LineageOS-14.1 kernel/coolpad/CP8676_I02 
+	git clone https://github.com/sougata7684/android_kernel_coolpad_CP8298_I00 -b LineageOS-14.1 kernel/coolpad/CP8676_I02 
 	
 To apply the patches -
 
